@@ -1,0 +1,245 @@
+body
+{
+    position:absolute;
+    right: 0%;
+    bottom:0%;
+    background-image:url("111.png");
+    background-attachment:fixed;
+    background-size:100% 100%;
+   
+    direction:rtl;
+ 
+}
+r{
+
+  vertical-align:middle;
+  text-align:right;
+  position:fixed;
+  top:5px;
+  right:5px;
+   
+}
+
+r:hover{
+     text-decoration:underline;
+}
+ce{
+    vertical-align:middle;
+    text-align:center;
+    position:fixed;
+    top:5px;
+    left:50%;
+   
+}
+ce:hover{
+     text-decoration:underline;
+}
+l{
+    vertical-align:middle;
+    text-align:left;
+    position:fixed;
+    top:5px;
+    left:5px;
+}
+l:hover{
+     text-decoration:underline;
+}
+header{
+    position:fixed;
+    top:0px;
+    right:5px;
+    left:5px;
+      color:rgb(82,82,82);
+       font-style:italic;
+    font-size:15px;
+    font-family:Calibri;
+    background-color:rgb(245,245,245);
+    background-position:center center;
+    width:100%;
+    height:7%;
+    letter-spacing:9px;
+   
+
+}
+k1{
+    letter-spacing:12px;
+    color:rgb(82,82,82);
+    font-style:italic;
+    font-size:120px;
+    font-family:'Bauhaus 93';
+    text-align:center;
+}
+k2{
+    letter-spacing:1px;
+    color:rgb(82,82,82);
+    font-style:italic;
+    font-size:60px;
+        font-family:'Bauhaus 93';
+    text-indent:100px;
+}
+k3{
+        
+    letter-spacing:7px;
+    color:rgb(82,82,82);
+    font-style:italic;
+    font-size:35px;
+    font-family:'Bauhaus 93';
+    text-align:center;
+}
+k4{
+     letter-spacing:2px;
+    color:rgb(82,82,82);
+    font-style:italic;
+    font-size:18px;
+    font-family:'Bauhaus 93';
+    text-indent:100px;
+}
+h1, h2 {
+    font-style: italic;
+    font-family:Calibri;
+
+}
+hgroup{
+   font-style:italic;
+       /*background-image:url("logo.png");
+       background-size:250px 200px;
+       background-repeat:no-repeat;
+       background-position:top,center;*/
+       background-image:url("l.png") ;
+       background-size:100%;
+       background-repeat:no-repeat;
+       background-position:top 60px right 30px ;
+                     
+                     
+}
+
+form {
+ color:rgb(82,82,82);
+   border-width:medium;
+   border-color:rgb(82,82,82);
+   border-style:solid;
+    background-attachment:fixed;
+    background-position:center center; 
+    position:relative;
+    width:55%;
+    height:70%;
+    text-align:center;
+    top:2450px;
+    right:150px;
+    padding-left:50px;
+     border-radius: 35px;
+    font-style:italic;
+    font-size:15px;
+    font-family:Calibri;
+
+
+}
+ol{
+    list-style-type:disc;
+    text-align:right;
+    list-style-position:outside;
+}
+ul{
+    list-style-type:none;
+    text-align:center;
+}
+nav{
+   rgb(82,82,82) color: ;
+     list-style-type:none;
+    text-align:center;
+}
+aside {
+    color:rgb(82,82,82);
+    
+     text-align:center;
+    /*direction:rtl;*/
+    position:fixed;
+    top:95px;
+    right:5px;
+    width: 13%;
+    height: 80%;
+    border-radius: 25px;
+    font-style:italic;
+    font-weight:bold;
+    font-size:15px;
+    font-family:Calibri;
+
+}
+nav{
+        color:rgb(82,82,82);
+
+}
+#hllow{
+    color:rgb(82,82,82) ;
+}
+#hllow:hover{
+    color:rgb(82,82,82);
+
+}
+#ma
+#to
+#ti
+#tz
+ma:hover{
+    text-decoration:underline;
+}
+b:hover{
+    text-decoration:underline;
+}
+c:hover{
+    text-decoration:underline;
+
+}
+d:hover{
+    text-decoration:underline;
+}
+e:hover{
+    text-decoration:underline;
+}
+f:hover{
+    text-decoration:underline;
+}
+zd {
+    color:rgb(82,82,82);
+       /*background-image:url("l.png") ;
+       background-size:24cm 5cm ;
+       background-repeat:no-repeat;
+       background-position:top center;*/
+
+    text-align:center;
+    position:fixed;
+    top:60px;
+    left:50px;
+    width: 5%;
+    height: 90%;
+    border-radius: 30px;
+    font-style:italic;
+    font-size:15px;
+    font-family:Calibri;
+    border-width:medium;
+    border-color:black;
+
+
+  }
+    zd:hover {
+        text-decoration: underline;
+    }
+c{
+    background-repeat:no-repeat;
+    background-position:top right;
+
+}
+
+f{ 
+    
+    top:30px;
+    right:360px;
+     height:10%;
+     width:10%;  
+       direction:rtl; 
+ }
+img{
+    width:50%;
+   
+   right:30px;
+}
